@@ -24,7 +24,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:text=""
+        android:text="@string/shoping_item_name_sample"
         android:textSize="18sp"
         android:textStyle="bold"
         app:layout_constraintStart_toEndOf="@+id/item_checkbox"
@@ -44,7 +44,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="4dp"
-        android:text=""
+        android:text="@string/shoping_item_count_sample"
         app:layout_constraintBottom_toBottomOf="@+id/item_button"
         app:layout_constraintEnd_toStartOf="@+id/item_unit" />
 
@@ -53,7 +53,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="4dp"
-        android:text=""
         app:layout_constraintBottom_toBottomOf="@id/item_button"
         app:layout_constraintEnd_toStartOf="@+id/item_button" />
 </androidx.constraintlayout.widget.ConstraintLayout>

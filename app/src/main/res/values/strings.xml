@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">ShopingList</string>
-    <string name = "quantity_text" >%I %S</string>
+    <string name = "quantity_text" translatable="false">%d %s</string>
+    <string name="shoping_item_name_sample">kartupelis</string>
+    <string name="shoping_item_count_sample">50</string>
+    <string name="shoping_item_unit_sample">kg</string>
 </resources>
